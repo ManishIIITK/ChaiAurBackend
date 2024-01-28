@@ -20,3 +20,9 @@ Points to keep in mind to get create a good connection
 
 1. Learn about cookie-perser and cors
 2. Learn about error 
+
+# Lecture 9 : Video.js and User.js under Model dir
+
+1. Mongoose Aggregate Paginate
+2. Bcrypt
+3. jwt
