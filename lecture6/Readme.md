@@ -26,3 +26,10 @@ Points to keep in mind to get create a good connection
 1. Mongoose Aggregate Paginate
 2. Bcrypt
 3. jwt
+
+# Lecture 10: Multer and Cloudinary
+
+File uplod -> check util folder cloudinary file  
+Middlewares->
+
+> Till here, in a way we have just done project setup if we exclude the model folder
