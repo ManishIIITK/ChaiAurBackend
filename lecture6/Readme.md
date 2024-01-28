@@ -4,3 +4,14 @@
 2. install nodemon in dev dependencies and write the dev script 
 3. create new directories inside src to separete every functionality (mvc architecture)
 4. to avoid merge conflicts add prettier and add .prettierrc file
+
+
+# Lecture 7- Connection with MongoDB
+
+Get the url from the atlas and paste that url in db folder
+
+Points to keep in mind to get create a good connection
+
+1. Always wrap the connection into try catch or use promises 
+2. THINK DATABASE IS ALWAYS IN ANOTHER CONTINET(Hitesh Chowdhary) -> inorder to use async await
+3. Always log eroor message which will help while debugging 
