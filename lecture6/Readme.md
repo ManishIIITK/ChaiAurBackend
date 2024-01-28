@@ -15,3 +15,8 @@ Points to keep in mind to get create a good connection
 1. Always wrap the connection into try catch or use promises 
 2. THINK DATABASE IS ALWAYS IN ANOTHER CONTINET(Hitesh Chowdhary) -> inorder to use async await
 3. Always log eroor message which will help while debugging 
+
+# Lecture 8 Custom api response and error handling
+
+1. Learn about cookie-perser and cors
+2. Learn about error 
