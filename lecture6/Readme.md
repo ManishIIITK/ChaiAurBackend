@@ -38,3 +38,7 @@ Middlewares->
 # Lecture 12: Logic Building -> Controller, Routes
 
 Wrote logic for just testing whether register route is working or not
+
+# Lecture 13: logic for createUser
+
+All steps are written as a comment inside createUser function 
