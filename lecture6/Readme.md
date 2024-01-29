@@ -33,3 +33,8 @@ File uplod -> check util folder cloudinary file
 Middlewares->
 
 > Till here, in a way we have just done project setup if we exclude the model folder
+
+
+# Lecture 12: Logic Building -> Controller, Routes
+
+Wrote logic for just testing whether register route is working or not
